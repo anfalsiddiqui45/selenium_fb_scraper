@@ -1,0 +1,28 @@
+# Ignore browser profile that may contain personal login data
+selenium_profile/
+
+# Data and outputs
+data/
+finalds/
+
+# Virtualenv
+venv/
+
+# Local env files
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Databases and artifacts
+*.sqlite
+*.db
+*.log
+
+# Editor dirs
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
