@@ -26,3 +26,6 @@ __pycache__/
 
 # macOS
 .DS_Store
+
+# Misc generated/copied datasets
+Untitled Folder/
